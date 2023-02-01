@@ -1,0 +1,13 @@
+name: reseedproject
+title: reseedproject
+username:
+account: souzayuri
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6404099
+bundleId: 6798481
+url: https://souzayuri.shinyapps.io/reseedproject/
+when: 1675266949.16625
+lastSyncTime: 1675266949.16629
+asMultiple: FALSE
+asStatic: FALSE
