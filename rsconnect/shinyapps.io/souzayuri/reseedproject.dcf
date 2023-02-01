@@ -5,9 +5,9 @@ account: souzayuri
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 6404099
-bundleId: 6798567
+bundleId: 6798606
 url: https://souzayuri.shinyapps.io/reseedproject/
-when: 1675268124.80253
-lastSyncTime: 1675268124.80254
+when: 1675268729.98765
+lastSyncTime: 1675268729.98766
 asMultiple: FALSE
 asStatic: FALSE
