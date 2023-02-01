@@ -4,7 +4,7 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________________________
 
-This App was made with *Shinyapp* R structure. It was developed by Yuri Souza (desouza.s.yuri@gmail.com) and you may find the code on my [github](https://github.com/souzayuri/ReSeed). 
+This App was made with *Shinyapp* R structure. It was developed by Yuri Souza (desouza.s.yuri@gmail.com) and you may find the code on my [github](https://github.com/souzayuri/reseedproject). 
 I want to thank [Jiena](https://github.com/jienagu/D3_folded_charts) and [Oliver](https://olivermelallen.com/) for providing ideas and the structure of the *Traits Summary* and the *Data Exploratoration* tab. 
 
 ___________________________________________________________________________________________________
